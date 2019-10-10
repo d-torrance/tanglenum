@@ -2,6 +2,7 @@ tanglenum
 =========
 
 [![License:MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/214199715.svg)](https://zenodo.org/badge/latestdoi/214199715)
 
 This Python program is used to enumerate planar Tangles as described
 in the paper [Enumeration of planar
