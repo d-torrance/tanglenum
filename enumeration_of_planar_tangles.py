@@ -7,7 +7,7 @@ import pandas
 import time
 
 tangle_type = ['fixed', 'one-sided', 'free']
-P = 9
+P = 10
 
 filename = 'enumeration_of_planar_tangles.txt'
 open(filename, 'w').close()
